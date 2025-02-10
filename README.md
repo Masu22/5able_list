@@ -1,3 +1,6 @@
+# In progress
+Summarise the conetnts of Text files
+
 # 5able_list
 
 (1) Making Index pages!!  
