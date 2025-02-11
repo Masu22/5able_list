@@ -8,6 +8,6 @@ Summarise the conetnts of Text files
 
 # List of content and fields in Math!! by GPT
 IUT, AlgG, ArithG, AlgTop  
-*.mdファイルの書式：https://qiita.com/oreo/items/82183bfbaac69971917f  
+>.mdファイルの書式：https://qiita.com/oreo/items/82183bfbaac69971917f  
 
 # Aopsの各分野項目　⇒難関大学＆IMO
