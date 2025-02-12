@@ -8,6 +8,9 @@ Summarise the conetnts of Text files
 
 # List of content and fields in Math!! by GPT
 IUT, AlgG, ArithG, AlgTop  
+極小モデル理論MMP    
+柏原予想(望月拓郎さん理論)  
+HoTT  
 >.mdファイルの書式：https://qiita.com/oreo/items/82183bfbaac69971917f  
 >.mdファイルのサンプル集：https://qiita.com/tbpgr/items/989c6badefff69377da7
 
