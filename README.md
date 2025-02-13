@@ -7,7 +7,7 @@ Summarise the conetnts of Text files
 (2) Organaizing content of that!!  
 
 # List of content and fields in Math!! by GPT
-IUT, AlgG, ArithG, AlgTop  
+IUT, AlgG, ArithG, AlgTop, AlgNumber  
 極小モデル理論MMP    
 柏原予想(望月拓郎さん理論)  
 HoTT  
