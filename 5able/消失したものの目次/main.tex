@@ -1,0 +1,16 @@
+\documentclass[12pt]{jarticle}
+\usepackage{comment}
+\usepackage{inputenc}
+
+\begin{document}
+%自動で字下げを解除
+\parindent = 0pt
+
+%\includeの後に、texファイル名を拡張子なしで、入力していく
+%1つのファイルごとに、sectionのカウンターをリセットする
+\include{Arith}
+\setcounter{section}{0}
+
+\include{model}
+
+\end{document}
